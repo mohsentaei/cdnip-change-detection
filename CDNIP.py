@@ -9,7 +9,7 @@ cdn_ip_url = "https://www.arvancloud.com/fa/ips.txt"
 # ArvanCloud ==> https://www.arvancloud.com/fa/ips.txt (Default)
 # CloudFlare(IPv4) ==> https://www.cloudflare.com/ips-v4
 # CloudFlare(IPv6) ==> https://www.cloudflare.com/ips-v6
-# Sotoon ==>
+# Sotoon ==> https://edge.sotoon.ir/ip-list.txt
 # CloudFront ==> https://ip-ranges.amazonaws.com/ip-ranges.json
 
 healthcheckio_url = "https://hc-ping.com/414075ce-256e-4dcf-98fe-d438d452dc06" #Change this url
